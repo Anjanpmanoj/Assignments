@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Anjan",
+    "class": "CSE-A",
+    "roll_no": 101,
+    "marks": 87,
+    "city": "Thrissur"
+  },
+  {
+    "name": "Meera",
+    "class": "CSE-A",
+    "roll_no": 102,
+    "marks": 92,
+    "city": "Kochi"
+  },
+  {
+    "name": "Arun",
+    "class": "CSE-B",
+    "roll_no": 201,
+    "marks": 78,
+    "city": "Kozhikode"
+  },
+  {
+    "name": "Fathima",
+    "class": "CSE-B",
+    "roll_no": 202,
+    "marks": 85,
+    "city": "Kannur"
+  },
+  {
+    "name": "Rahul",
+    "class": "ECE-A",
+    "roll_no": 301,
+    "marks": 69,
+    "city": "Palakkad"
+  },
+  {
+    "name": "Sneha",
+    "class": "ECE-A",
+    "roll_no": 302,
+    "marks": 91,
+    "city": "Trivandrum"
+  },
+  {
+    "name": "Vishnu",
+    "class": "ECE-B",
+    "roll_no": 401,
+    "marks": 74,
+    "city": "Alappuzha"
+  },
+  {
+    "name": "Nisha",
+    "class": "ECE-B",
+    "roll_no": 402,
+    "marks": 88,
+    "city": "Kollam"
+  }
+]
