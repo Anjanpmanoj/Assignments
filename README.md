@@ -105,6 +105,40 @@ Assignments/
 &#x20;       └── sensors.py
 
 ```
+## Assignment 4: API Client, Data Parser and Unit Tests
+
+**Folder:** `Assignment-4-apiclient/`
+
+A Python application that retrieves user data from a REST API, parses and validates JSON responses, cleans data using Pandas, and exports the results to CSV.
+
+**Features:**
+- HTTP GET requests using the Requests library
+- REST API integration and JSON parsing
+- Data validation and cleaning with Pandas
+- Error handling for unsuccessful HTTP responses
+- Unit tests using `unittest` and mocked HTTP responses
+
+**Key files:**
+- `api_client.py` — Fetches data from the API.
+- `data_parser.py` — Validates and cleans user records.
+- `main.py` — Runs the application and exports the data.
+- `tests/test_api_client.py` — Tests the API client and parser.
+- `requirements.txt` — Lists Python dependencies.
+
+**Technologies:** Python, Requests, REST APIs, HTTP, JSON, Pandas, unittest.
+
+**Run the project:**
+
+```bash
+python main.py
+```
+
+**Run the tests:**
+
+```bash
+python -m unittest discover -s tests -v
+```
+
 
 
 
